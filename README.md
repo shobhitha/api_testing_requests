@@ -53,11 +53,5 @@ api_testing_requests/
 │-- README.md             # Project documentation
 ```
 
-## Contributing
-Feel free to open issues or submit pull requests to enhance the project.
 
-## License
-This project is licensed under the MIT License.
-
----
 **Author:** Shobhitha Sarma Dittakavi
